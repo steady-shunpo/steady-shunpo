@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @steady-shunpo
-<br>🌱 I’m currently learning C++
-<br>💞️ I’m looking to collaborate on any beginner level C++ or Python project
+<br>🌱 I’m currently learning Webdev
+<br>💞️ I’m looking to collaborate on any beginner level Web development project
 <br>📫 How to reach me email me @shunpoguy@gmail.com
 
 
